@@ -1,7 +1,9 @@
-### 21DayLinux
+# 21DayLinux
 help tester ,21 day learn Linux about work .
 
-### To All
+<p>
+
+# To All
  
 把完整的21天命令，拆分成21个文档，每天搞定一个，反复循环3次 。
 
@@ -11,3 +13,6 @@ help tester ,21 day learn Linux about work .
 
 
 原始版，见之前的文章 http://istester.com/linux/219.html
+
+
+IDO老徐
